@@ -1,0 +1,8 @@
+{
+  "name": "Copy of  Pankaj's Physics Viva Pro: External Examiner",
+  "description": "A high-stakes interactive Physics oral examination simulator using Gemini 2.5 Live API for real-time voice interaction and visual diagram analysis.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
