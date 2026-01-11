@@ -1,8 +1,8 @@
 
 const CACHE_NAME = 'physics-viva-v1';
 const ASSETS = [
-  '/',
-  '/index.html',
+  './',
+  './index.html',
   'https://cdn.tailwindcss.com'
 ];
 
